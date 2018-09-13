@@ -4,6 +4,7 @@ This branch is intended to be used in [openstyles/stylus](https://github.com/ope
 
 * Fix: check whether captureStackTrace exists. [#2394](https://github.com/stylus/stylus/pull/2394)
 * Fix: handle empty at-rules. [#2416](https://github.com/stylus/stylus/pull/2416)
+* Enhance: define function arguments explicitly. [#2417](https://github.com/stylus/stylus/pull/2417)
 
 ----
 
