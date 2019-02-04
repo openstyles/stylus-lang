@@ -1,3 +1,13 @@
+# openstyles/stylus-lang#stylus-extension
+
+This branch is intended to be used in [openstyles/stylus](https://github.com/openstyles/stylus) extension and [openstyles/stylus-lang-bundle](https://github.com/openstyles/stylus-lang-bundle). It is forked from [stylus/stylus#dev](https://github.com/stylus/stylus/tree/dev) with additional patches:
+
+* Fix: check whether captureStackTrace exists. [#2394](https://github.com/stylus/stylus/pull/2394)
+* Fix: handle empty at-rules. [#2416](https://github.com/stylus/stylus/pull/2416)
+* Enhance: define function arguments explicitly. [#2417](https://github.com/stylus/stylus/pull/2417)
+
+----
+
 # Stylus [![Build Status](https://travis-ci.org/stylus/stylus.svg?branch=master)](https://travis-ci.org/stylus/stylus)
 
  Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS. Supporting both an indented syntax and regular CSS style.
